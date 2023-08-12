@@ -12,11 +12,11 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	if (n>0)
-		print("id is positive\n", n)
-	else if(n==0)
-		print("id  is zero\n", n)
+	if (n > 0)
+		printf("id is positive\n", n)
+	else if(n == 0)
+		printf("id  is zero\n", n)
 	else
-		print("id id negative\n", n)	
+		printf("id id negative\n", n)	
 	return (0);
 }
