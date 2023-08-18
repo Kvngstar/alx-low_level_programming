@@ -1,7 +1,7 @@
 include "main.h"
 
 /**
- * print_numbers - Prints from 0 - 9
+ * print_numbers - Prints from 0 to 9
  * Rturn: 0 up to 9
  */
 
