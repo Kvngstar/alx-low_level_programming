@@ -2,7 +2,7 @@
 
 /**
  * print_numbers - Prints from 0 to 9
- * Rturn: 0 up to 9
+ * Return: 0 up to 9
  */
 
 void print_numbers(void)
