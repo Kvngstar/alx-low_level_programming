@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Hp/alx-low_level_programming/0x06-pointers_arrays_strings",
-      "program": "c:/Users/Hp/alx-low_level_programming/0x06-pointers_arrays_strings/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
